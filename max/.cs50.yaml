@@ -1,2 +1,3 @@
 submit50:
-  files: *
+  files:
+    - !include *
